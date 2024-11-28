@@ -1,5 +1,5 @@
 ## About Paint Tool Sai
-Paint Tool Sai is a graphics editor, comparable to Photoshop, mainly used for creating digital artwork. It is lightweight but has very powerful tools. Check out the website [here](https://www.systemax.jp/en/sai/).  
+Paint Tool Sai is a graphics editor, comparable to Photoshop, mainly used for creating digital artwork. It is lightweight but has very powerful tools. Check out the website [here](https://www.systemax.jp/en/sai/). I am using Sai 2.  
   
 I have tried out many art programs over the years, but Sai has always been the best and easiest for me due to its simplicity and it being so intuitive. 
 The vector lineart function is, in my opinion, the most powerful tool available, and unmatched in any other graphics software. 
