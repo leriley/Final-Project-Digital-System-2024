@@ -24,3 +24,5 @@ Here's a short list of functions I prefer in Sai versus other various art progra
 - Clip Studio is one of the programs that, for me, holds a candle to Sai
 - Sai's vector lineart tools still win, but Clip Studio is 2nd best in the market for this function
 - Clip Studio also has a ton of other cool features Sai doesn't have!
+
+[Home](README.md) | [Settings] | [Tools]
