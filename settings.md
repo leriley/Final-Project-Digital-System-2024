@@ -1,5 +1,7 @@
 ## Settings for Digital Art
-There are specific settings you want to have in order to create art that's quality is suitable for print.
+Now that we have Paint Tool Sai, let's learn about how to set up a canvas. There are specific settings you want to have in order to create quality art. To start setting up your canvas, hit File/New in the upper left-hand corner, or press **Ctrl+N**. You'll be greeted with a prompt for setting up your new canvas. Let's go over some of these settings:
+
+##Resolution
 
 ## Dots Per Inch, or DPI
 DPI is the number of *dots* per 1 inch. For things that are "within arm's reach," such as stickers, t-shirts, posters, or greeting cards, **300 DPI is the standard**. So if you're an artist and you want to
