@@ -15,18 +15,6 @@ Now that we have Paint Tool Sai, let's learn about how to set up a canvas. There
 ![backgrounds](images/bg.png)  
 Transparency is a big thing you want to consider when you're making art. The most common file types that support transparency are **PNG and GIF**. JPEGs do not support transparency. Transparency allows for the removal of color information. When an image with transparency is displayed over a web page, web page will be visible behind the image with transparent pixels. Image types that do not support transparency will show black or white pixels where the transparent pixels were, depending on how the image was saved.
 
-<div style="background-color: lightblue; padding: 10px;">
-  This section has a light blue background.
-  
-  ![Transparent Image](your-image.png)
-  
-  You can demonstrate how transparency works here.
-</div>
-
-<div style="background-color: lightblue; padding: 10px; border: 1px solid black;">
-  Example content in the styled section.
-</div>
-
 
 ### Recommendations
 I almost always work on a **3000 x 3000** canvas. You can always crop and shrink an image, but increasing the size is not always as easy. Make sure your image is a sufficient size for what your needs will be. I always use **300 DPI or PPI**. I usually work on a **transparent white background**, but this can always be changed later on.
