@@ -18,5 +18,5 @@ Transparency is a big thing you want to consider when you're making art. The mos
 
 
 ### Recommendations
-I almost always work on a **3000 x 3000** canvas. You can always crop and shrink an image, but increasing the size is not always as easy. Make sure your image is a sufficient size for what your needs will be. I always use **300 DPI or PPI**. I usually work on a **transparent white background**, but this can always be changed later on.
+I almost always work on a **3000 x 3000** canvas. You can always crop and shrink an image, but increasing the size is not always as easy. Make sure your image is a sufficient size for what your needs will be. I always use **300 DPI or PPI**. I usually work on a **transparent white background**.
 
