@@ -13,7 +13,7 @@ Now that we have Paint Tool Sai, let's learn about how to set up a canvas. There
 
 
 ![backgrounds](images/bg.png)  
-Transparency is a big thing you want to consider when you're making art. The most common file types that support transparency are **PNG and GIF**. JPEGs do not support transparency. Transparency allows for the removal of color information. When an image with transparency is displayed over a web page, web page will be visible behind the image with transparent pixels. Image types that do not support transparency will show black or white pixels where the transparent pixels were, depending on how the image was saved. Here is a demonstration of how a PNG with transparency looks versus the same image saved as a JPEG, which does not support the transparent pixels:
+Transparency is a big thing you want to consider when you're making art. The most common file types that support transparency are **PNG and GIF**. JPEGs do not support transparency. Transparency allows for the removal of color information. When an image with transparency is displayed over a web page, the web page will be visible behind the image with transparent pixels. Image types that do not support transparency will show black or white pixels where the transparent pixels were, depending on how the image was saved. Here is a demonstration of how a PNG with transparency looks versus the same image saved as a JPEG, which does not support the transparent pixels:
 ![Transparency demonstration](images/transparent.png)
 
 
