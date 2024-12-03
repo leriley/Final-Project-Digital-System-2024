@@ -20,6 +20,6 @@ Transparency is a big thing you want to consider when you're making art. The mos
 ### Recommendations
 I almost always work on a **3000 x 3000** canvas. You can always crop and shrink an image, but increasing the size is not always as easy. Make sure your image is a sufficient size for what your needs will be. I always use **300 DPI or PPI**. I usually work on a **transparent white background**. These settings can always be changed later, too. Create your canvas and it's time to learn about digital drawing.
 
-[Home](README.md) | [ About Paint Tool Sai](sai.md) | | [Introduction](intro.md) | [Other Tools](tools.md)
+[Home](README.md) | [ About Paint Tool Sai](sai.md) | | [Introduction to the Canvas](intro.md) | [Other Tools](tools.md)
 
 
