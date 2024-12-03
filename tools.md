@@ -1,3 +1,4 @@
+# Knowing Your Way Around
 ### Tools
 One of my favorite tools that sets Sai apart from other programs is the *linework layer*. First, let's learn the difference between vector and raster graphics:
 #### Raster
