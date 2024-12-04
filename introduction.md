@@ -10,3 +10,7 @@ The dropdown will allow you to pick preset zooms and angles. In addition to this
 
 ## 2: The Color Wheel 
 Let's talk about how colors work in the digital world.
+
+## 3: Brushes
+
+## 4: Layers
