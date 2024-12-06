@@ -10,9 +10,14 @@ The dropdown will allow you to pick preset zooms and angles. In addition to this
 
 ## 2: The Color Wheel 
 Let's talk about how colors work in the digital world. Different colors are created by mixing **red, green, and blue** light at different intensities from ranges between 0 to 255. The color wheel conviniently gives you the ability to change the red, green, and blue content, as well as the saturation and brightness all in one. If this is too much power for you to handle, the buttons located above the color wheel give us more options for mixing colors. This is what the other palette options look like:  
-
-And here you can see that 255 range between the RGB colors. Try playing with the sliders and inputting different numbers to see how the color changes.
+![palettes](images/colors.jpg)   
+And here you can see that 255 range between the RGB colors, as well as hue, saturation, and brightness. Try playing with the sliders and inputting different numbers to see how the color changes. The other buttons will give you tools with which you can create your own gradients (which I use for picking colors to shade with), save your own color palettes (which I use to save palettes for characters I draw often), and another mini canvas to swatch colors on (I'll use this to save colors I'm doing some funky lighting). 
 
 ## 3:  Brushes
+You can't draw without something to put your colors down with! There are so many different brushes that can all be edited, customized, and you can even create your own brushes. The buttons at the top, once again, give you more options. Binary brushes are for pixel art. Ver.1 are brushes from the original Paint Tool Sai; I love the blur brush from Sai 1 and prefer it to Sai 2's blur brush. Artistic gives us some fancy brushes for painting. Playing with brushes is super fun, and brushes most definitely make a big difference in your art.  
+
+Sai has a few different brush types: Pens, pencils, (paint)brushes, air brushes, markers, and other special brushes like effects brushes. Which ones you use really depend on what are style you're going for. Underneath the brush selection, there's sliders that control even more aspects about how it "draws." The hardness of the brush edge can be soft or harsh. Here you also control the brush size, its minimum size (maybe you want big chunky strokes and don't want your lines to be smaller than a certain width), the density (opacity), as well as minimum density.  
+
+I sketch with a pencil brush on a low density (36%) and small size so that I can build up my sketches. I also shade with a pencil brush, on 100% density and a large brush size. I do lighting with an air brush which allows for soft gradients.
 
 ## 4: Layers
