@@ -1,6 +1,6 @@
 ## About Paint Tool Sai
 Paint Tool Sai is a graphics editor, comparable to Photoshop, mainly used for creating digital artwork. It is lightweight but has very powerful tools. Check out the website [here](https://www.systemax.jp/en/sai/). I am using Sai 2.  
-
+### Tools for Drawing With
 Along with a drawing program, you'll want a graphics tablet. A graphics tablet is a pressure-sentitive pad that allows you to hand-draw images with a stylus. The tablet I use at the moment is by [wacom](https://www.wacom.com/en-us).  
 
 
@@ -29,4 +29,4 @@ Here's a short list of functions I prefer in Sai versus other various art progra
 - Sai's vector lineart tools still win, but Clip Studio is 2nd best in the market for this function
 - Clip Studio also has a ton of other cool features Sai doesn't have!
 
-[Home](README.md) | [Settings] | [Tools]
+[Home](README.md) | [Settings for Getting Started With Digital Art](settings.md) | [Introduction to the Canvas](introduction.md) | [The Process](process.md)
