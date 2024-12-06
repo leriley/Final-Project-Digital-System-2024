@@ -9,8 +9,10 @@ More view controls are also available at the top of your canvas; I use these mor
 The dropdown will allow you to pick preset zooms and angles. In addition to this, the button with opposite facing arrows is the **Flip Canvas** button. The stabilizer will slow down your pen strokes for smooth drawing. The slash button will switch to straight line drawing mode.
 
 ## 2: The Color Wheel 
-Let's talk about how colors work in the digital world.
+Let's talk about how colors work in the digital world. Different colors are created by mixing **red, green, and blue** light at different intensities from ranges between 0 to 255. The color wheel conviniently gives you the ability to change the red, green, and blue content, as well as the saturation and brightness all in one. If this is too much power for you to handle, the buttons located above the color wheel give us more options for mixing colors. This is what the other palette options look like:  
 
-## 3: Brushes
+And here you can see that 255 range between the RGB colors. Try playing with the sliders and inputting different numbers to see how the color changes.
+
+## 3:  Brushes
 
 ## 4: Layers
