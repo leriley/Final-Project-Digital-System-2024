@@ -21,3 +21,9 @@ Sai has a few different brush types: Pens, pencils, (paint)brushes, air brushes,
 I sketch with a pencil brush on a low density (36%) and small size so that I can build up my sketches. I also shade with a pencil brush, on 100% density and a large brush size. I do lighting with an air brush which allows for soft gradients.
 
 ## 4: Layers
+Now that we're actually drawing on our canvas, it's time to introduce **layers**. Layers are awesome because they allow for preservation and organization. Layers essentially allow you to stack images on top of each other. And I use them a lot. Once I've finished a drawing, my layers are in this order:
+1. (First layer, or bottommost layer) The sketch (this layer is hidden but preserved)
+2. Base colors
+3. Shadows
+4. Lineart
+5. Lighting
