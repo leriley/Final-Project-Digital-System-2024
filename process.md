@@ -24,4 +24,5 @@ Now we add the finishing touches like cropping the canvas to our desired size an
 | JPG | Lossy compression, no transparency support.     |
 | PNG    | Lossless compression and transparency support.    |  
 
-I always export as a PNG. To do this, we go to File/Export/PNG (or whatever file type you want). And we are done. Now you should know all the basic information and steps needed to create digital drawings.
+I always export as a PNG. To do this, we go to File/Export/PNG (or whatever file type you want). And we are done. Now you should know all the basic information and steps needed to create digital drawings.  
+[Home](process.md) | [ About Paint Tool Sai](sai.md) | [Settings for Getting Started With Digital Art](settings.md) | [Introduction to the Canvas](introduction.md) 
