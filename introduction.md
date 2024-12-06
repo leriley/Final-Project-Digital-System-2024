@@ -46,3 +46,7 @@ Adding this layer will give you access to a few new brushes. These brushes are t
 ![Lineart demo](images/lines2.gif)  ![Lineart demo](images/lines.gif)  
 
    As you can see, I feel a lot more free with these moldable vector lines! If I wanted to move or reshape any of these raster lines in the 2nd gif after I had already drawn them, they would suffer from pixelation and a decrease in quality, and wouldn't match the rest of the lines! Vector lines will retain their quality no matter what you do with them (up until you convert them to raster, if you even wish to do this).
+  
+Now we can take a look at what the process is like and how to export your final image.  
+[ About Paint Tool Sai](sai.md) | [Settings for Getting Started With Digital Art](settings.md) | [Introduction to the Canvas](introduction.md) | [The Process](process.md)
+
