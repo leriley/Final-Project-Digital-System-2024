@@ -42,4 +42,7 @@ Vector, on the other hand, are rendered with mathematical formulas. This allows 
 ![New canvas prompt](images/raster.png)  
 Here is a raster image that I scaled up by 500% compared to a vector image that I scaled up by 500%. Notice how the vector image retains its quality while the raster image gets fuzzy. I created this vector image with a Linework Layer. You can identify the Linework Layer button by the pen on it. ![linework layers](images/pen.jpg)   
 
-Adding this layer will give you access to a few new brushes. These brushes are tools for creating vector lines.
+Adding this layer will give you access to a few new brushes. These brushes are tools for creating vector lines. These lines can be placed, moved, edited, deformed, transformed, copied, rounded, pointed, connected--pretty much anything you would need to do with a line, you can do with these vector lines created with linework layers. Here's a couple of gifs I created. The first one showcases me starting out some lineart with the linework layer's pen tool. The 2nd gif, I am doing lineart with a regular brush.  
+![Lineart demo](images/lines2.gif)  ![Lineart demo](images/lines.gif)  
+
+   As you can see, I feel a lot more free with these mouldable vector lines! If I wanted to move or reshape any of these raster lines in the 2nd gif after I had already drawn them, they would suffer from pixelation and a decrease in quality, and wouldn't match the rest of the lines! Vector lines will retain their quality no matter what you do with them (up until you convert them to raster).
