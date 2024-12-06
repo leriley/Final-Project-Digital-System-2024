@@ -24,8 +24,8 @@ I sketch with a pencil brush on a low density (36%) and small size so that I can
 Now that we're actually drawing on our canvas, it's time to introduce **layers**. Layers are awesome because they allow for preservation and organization. Layers essentially allow you to stack images on top of each other. You can also change the opacity of the entire layer, or add styles to it, which adds a sort of "effect" to whatever pixels are on that layer. You can even merge layers or transfer an image from one layer to another. Once I've finished a drawing, my layers are usually in this order:
 1. (First layer, or bottommost layer) The sketch (this layer is hidden but preserved)
 2. Base colors
-3. Shadows - Multiply layer style, lowered opacity
-4. Lineart - I do this on a special kind of layer called a Linework Layer
+3. Lineart - I do this on a special kind of layer called a Linework Layer
+4. Shadows - Multiply layer style, lowered opacity
 5. Lighting - Shine layer style, low opacity
 6. Sometimes, I'll add a layer of color over top of everything in the Screen layer style which will add a nice hue to the entire drawing, making it more cohesive.  
   
