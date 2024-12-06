@@ -21,9 +21,12 @@ Sai has a few different brush types: Pens, pencils, (paint)brushes, air brushes,
 I sketch with a pencil brush on a low density (36%) and small size so that I can build up my sketches. I also shade with a pencil brush, on 100% density and a large brush size. I do lighting with an air brush which allows for soft gradients.
 
 ## 4: Layers
-Now that we're actually drawing on our canvas, it's time to introduce **layers**. Layers are awesome because they allow for preservation and organization. Layers essentially allow you to stack images on top of each other. And I use them a lot. Once I've finished a drawing, my layers are in this order:
+Now that we're actually drawing on our canvas, it's time to introduce **layers**. Layers are awesome because they allow for preservation and organization. Layers essentially allow you to stack images on top of each other. You can also change the opacity of the entire layer, or add styles to it, which adds a sort of "effect" to whatever pixels are on that layer. You can even merge layers or transfer an image from one layer to another. Once I've finished a drawing, my layers are in this order:
 1. (First layer, or bottommost layer) The sketch (this layer is hidden but preserved)
 2. Base colors
-3. Shadows
-4. Lineart
-5. Lighting
+3. Shadows - Multiply layer style, lowered opacity
+4. Lineart - I do this on a special kind of layer called a Linework Layer
+5. Lighting - Shine layer style, low opacity
+6. Sometimes, I'll add a layer of color over top of everything in the Screen layer style which will add a nice hue to the entire drawing, making it more cohesive.  
+  
+You can also add folders, or groups, that you can organize layers inside of. If I'm drawing more than one picture on a single canvas, I separate each drawing into its own group. All the buttons for creating, editing, erasing, and deleting layers are found at the top of the layer panel. There's also a checkbox in this area that's labeled **Clipping Group**. Adding a clipping group onto an existing layer is super powerful: this makes it so you can only draw on top of pixels you've already placed down on its parent layer. This may not sound like much, but check out the difference between this image with clipping layers on and off:
