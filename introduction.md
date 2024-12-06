@@ -32,3 +32,12 @@ Now that we're actually drawing on our canvas, it's time to introduce **layers**
 You can also add folders, or groups, that you can organize layers inside of. If I'm drawing more than one picture on a single canvas, I separate each drawing into its own group. All the buttons for creating, editing, erasing, and deleting layers are found at the top of the layer panel. There's also a checkbox in this area that's labeled **Clipping Group**. Adding a clipping group onto an existing layer is super powerful: this makes it so you can only draw on top of pixels you've already placed down on its parent layer. This may not sound like much, but check out the difference between this image with clipping layers on and off:  
 ![clipping layers](images/clipping.jpg)   
 The clipping layers have a red bar to the left of them, and they clip onto either a single layer beneath them all, or onto many layers that are within a group. Notice how all the lighting and shading layers have escaped the confines of our character! It would be a lot more tedious and difficult to add details like this if you had to painstakingly stay within the lines. That's the beauty of digital art. We have the technology to do these things faster and easier than on traditional mediums.
+  
+#### 4.1: The Linework Layer
+On the topic of layers, I wanted to dedicate a small section to a feature in Sai that is very dear to my heart, the Linework Layer. But first, we must learn the difference between **raster** and **vector**. 
+  
+Raster images are made up of **pixels** and are resolution dependent. Because of this, they lose quality when enlarged. When you increase the size of a raster image, new pixels have to be created to fill the space. This can cause it to look blurry. 
+  
+Vector, on the other hand, are rendered with mathematical formulas. This allows you to scale up vector images and they won't lose quality.  
+![New canvas prompt](images/raster.png)  
+Here is a raster image that I scaled up by 500% compared to a vector image that I scaled up by 500%. Notice how the vector image retains its quality while the raster image gets fuzzy. I created this vector image with a Linework Layer.
